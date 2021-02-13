@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "chainId": "1003649",
+            "address": "TCQosYwstnEFFXL5iuchzHmdcwXZbmZZaT",
+            "name": "TRONCONNECT",
+            "symbol": "TCX",
+            "decimals": "6",
+            "logoURI": "https://tronconnect.org/images/icon.png"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
