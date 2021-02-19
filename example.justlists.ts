@@ -129,6 +129,15 @@
             "decimals": "6",
             "logoURI": "https://tronconnect.org/images/icon.png"
         }
+      
+        {
+            "chainId": "1003649",
+            "address": "TCQosYwstnEFFXL5iuchzHmdcwXZbmZZaT",
+            "name": "TRONCONNECT",
+            "symbol": "TCX",
+            "decimals": "6",
+            "logoURI": "https://tronconnect.org/images/icon.png"
+        }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
     "version":{
